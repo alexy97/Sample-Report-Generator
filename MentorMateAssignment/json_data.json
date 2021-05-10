@@ -1,0 +1,52 @@
+[
+{
+"name": "John Smith",
+"totalSales": 250,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "David Prowless",
+"totalSales": 250,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "John Brown",
+"totalSales": 500,
+"salesPeriod": 15,
+"experienceMultiplier": 0.2
+},
+{
+"name": "Elon Musk",
+"totalSales": 350,
+"salesPeriod": 40,
+"experienceMultiplier": 0.1
+},
+{
+"name": "Jeff Bezos",
+"totalSales": 385,
+"salesPeriod": 5,
+"experienceMultiplier": 0.7
+},
+{
+"name": "Alexy Daskalov",
+"totalSales": 1000,
+"salesPeriod": 20,
+"experienceMultiplier": 0.5
+},
+{
+"name": "John Oliver",
+"totalSales": 333,
+"salesPeriod": 10,
+"experienceMultiplier": 0.4
+},
+
+{
+"name": "Peter Johnson",
+"totalSales": 222,
+"salesPeriod": 19,
+"experienceMultiplier": 0.5
+}
+
+]
