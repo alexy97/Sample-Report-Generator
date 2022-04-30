@@ -1,1 +1,1 @@
-# MentorMate-Practical-Assignment
+Sample report generator assignment
